@@ -1,6 +1,4 @@
 # ARTS
-In response to the activities of 左耳朵耗子: Complete at least one LeetCode algorithm problem per week, read and review at least one English technical article, learn at least one technical skill, and share at least one technical article with viewpoints and reflections. Persist for at least one year! (Also known as: Algorithm, Review, Technique, Share, abbreviated as ARTS)
-
 响应左耳朵耗子的活动：每周至少做一个leetcode 的算法题， 阅读并点评至少一篇英文技术文章， 学习至少一个技术技巧， 至少分享一篇有观点和思考的技术文章。 坚持至少一年！ （也就是：Algorithm、Review、Technique、Share 简称ARTS）
 
 # The Original Intention of ARTS
